@@ -4,6 +4,11 @@ Anout game.
 
 2) You can set your own target.
 
+Dowload shotter.exe to play game.
+
+Simply a projectile based game.
+
+
 
 Use the controls as:
 
